@@ -1,13 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Hello World!</title>
-</head>
-<body>
+def greeting(name):
+  print("Hello, " + name)
 
-<h1>Hello world!</h1>
-<p>This is the first file in my new Git Repo.</p>
-
-</body>
-</html>
-
+person1 = {
+  "name": "John",
+  "age": 36,
+  "country": "Norway"
+}
